@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> 🦋 *"Small bugs, big data." — Awesome InsectAI*
+> 🦋 *"Small bugs, big data."
