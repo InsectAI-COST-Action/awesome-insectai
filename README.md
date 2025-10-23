@@ -7,13 +7,13 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 ---
 
 ## Table of Contents
-- [Detection](#detection)
+- [Detection](#detection-and-segmentation)
 - [Contributing](#contributing)
 - [License](#license)
 
 ---
 
-## Detection and Instance Segmentation
+## Detection and Segmentation
 
 | Year | Reference/Description | Links |
 |------|-----------------------|-------|
