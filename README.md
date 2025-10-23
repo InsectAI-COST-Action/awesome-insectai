@@ -7,7 +7,7 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 ---
 
 ## Table of Contents
-- [Detection](#detection-and-segmentation)
+- [Detection and Segmentation](#detection-and-segmentation)
 - [Contributing](#contributing)
 - [License](#license)
 
