@@ -34,8 +34,8 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 |------|-----------------------|-------|
 | 2025 | **[gbifxdl]** Mougeot G, et al. *GBIF eXtreme downloader - Scalable GBIF Image Downloading with Metadata* | [code](https://github.com/GuillaumeMougeot/gbifxdl) |
 | 2024 | **[antenna]** *Antenna - The Insect Data Platform* | [website](https://www.insectai.org/) [code](https://github.com/RolnickLab/antenna) [paper](https://arxiv.org/abs/2406.12452) |
+| 2024 | **[camtrapdp]** *Camtrap DP: an open standard for the FAIR exchange and archiving of camera trap data* | [website](https://camtrap-dp.tdwg.org/) [code](https://github.com/tdwg/camtrap-dp) [paper](https://doi.org/10.1002/rse2.374) |
 | 2024 | **[Mothbot]** *Mothbot - Offline Post-Processing and Labelling for Automated Insect Data* | [website](https://digital-naturalism-laboratories.github.io/Mothbox/) [code](https://github.com/RolnickLab/antenna](https://github.com/Digital-Naturalism-Laboratories/Mothbox/tree/main/AI))  |
-
 
 
 
