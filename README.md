@@ -25,6 +25,7 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 
 | Year | Reference/Description | Links |
 |------|-----------------------|-------|
+| 2025 | Gu J et al. *BioCLIP 2: Emergent Properties from Scaling Hierarchical Contrastive Learning* | [website](https://imageomics.github.io/bioclip-2/) [paper1](http://arxiv.org/abs/2505.23883) [code](https://github.com/Imageomics/bioclip-2) [dataset](https://huggingface.co/datasets/imageomics/TreeOfLife-200M) |
 | 2024 | Jain A, Cunha F, et al. *A machine learning pipeline for automated insect monitoring* | [paper1](https://arxiv.org/abs/2406.13031) [paper2](https://eccv.ecva.net/virtual/2024/poster/859) [code](https://github.com/RolnickLab/ami-ml/tree/main) [dataset](https://github.com/RolnickLab/ami-dataset) |
 
 ## Miscellaneous
