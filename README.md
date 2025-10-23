@@ -16,7 +16,7 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 | Year | Reference/Description | Links |
 |------|-----------------------|-------|
 | 2025 | **[flatbug]** Svenning A, et al. *A General Method for Detection and Segmentation of Terrestrial Arthropods in Images.* | [paper](https://www.biorxiv.org/content/10.1101/2025.04.08.647223v1) [code](https://github.com/darsa-group/flat-bug) [demo](https://colab.research.google.com/github/darsa-group/flat-bug/blob/master/docs/flat-bug.ipynb) [dataset](https://zenodo.org/records/14761447) |
-| 2024 | Aditya J, Cunha F, et al. *A machine learning pipeline for automated insect monitoring* | [paper1](https://arxiv.org/abs/2406.13031) [paper2](https://eccv.ecva.net/virtual/2024/poster/859) [code](https://github.com/RolnickLab/ami-ml/tree/main) [dataset](https://github.com/RolnickLab/ami-dataset) |
+| 2024 | Jain A, Cunha F, et al. *A machine learning pipeline for automated insect monitoring* | [paper1](https://arxiv.org/abs/2406.13031) [paper2](https://eccv.ecva.net/virtual/2024/poster/859) [code](https://github.com/RolnickLab/ami-ml/tree/main) [dataset](https://github.com/RolnickLab/ami-dataset) |
 | 2023 | Bjerge K, et al. *Accurate detection and identification of insects from camera trap images with deep learning.* PLOS Sustainability and Transformation. | [paper](https://doi.org/10.1371/journal.pstr.0000051) [code](https://github.com/ultralytics/yolov5) [weights](https://zenodo.org/records/7395752) [dataset](https://zenodo.org/records/7395752) |
 | 2023 | Stark T, et al. *YOLO object detection models can locate and classify broad groups of flower-visiting arthropods in images.* Scientific Reports. | [paper](https://doi.org/10.1038/s41598-023-43482-3) [project code](https://github.com/stark-t/PAI/tree/main) [model code](https://github.com/ultralytics/yolov5) [weights](https://github.com/stark-t/PAI/tree/main/detectors/trained_weights) |
 | 2023 | Bjerge K, et al. *Object detection of small insects in time-lapse camera recordings.* Sensors. | [paper](https://doi.org/10.3390/s23167242) |
@@ -25,7 +25,7 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 
 | Year | Reference/Description | Links |
 |------|-----------------------|-------|
-| 2024 | Aditya J, Cunha F, et al. *A machine learning pipeline for automated insect monitoring* | [paper1](https://arxiv.org/abs/2406.13031) [paper2](https://eccv.ecva.net/virtual/2024/poster/859) [code](https://github.com/RolnickLab/ami-ml/tree/main) [dataset](https://github.com/RolnickLab/ami-dataset) |
+| 2024 | Jain A, Cunha F, et al. *A machine learning pipeline for automated insect monitoring* | [paper1](https://arxiv.org/abs/2406.13031) [paper2](https://eccv.ecva.net/virtual/2024/poster/859) [code](https://github.com/RolnickLab/ami-ml/tree/main) [dataset](https://github.com/RolnickLab/ami-dataset) |
 
 ## Miscellaneous
 
