@@ -4,6 +4,8 @@ A curated list of **papers, datasets, code, and pretrained models** related to *
 
 Contributions are welcome! Please check the [contribution guidelines](#contributing) below.
 
+See also [AwesomeAnalysisTools](https://github.com/InsectAI-COST-Action/AwesomeAnalysisTools) for tools to analyse data from automated monitoring systems!
+
 ## Table of Contents
 - [Detection and Segmentation](#detection-and-segmentation)
 - [Classification](#classification)
